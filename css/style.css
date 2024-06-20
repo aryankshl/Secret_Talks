@@ -20,6 +20,7 @@ h1{
     border-radius: 6px;
     padding: 33px;
     overflow-y: auto;
+    overflow: auto;
     margin-bottom: 23px;
     margin: auto;
     height: 60vh;
